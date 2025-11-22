@@ -54,7 +54,8 @@ END
 ```
 OUTPUT
 
-(Keil output screenshot can be inserted here)
+![WhatsApp Image 2025-11-22 at 9 09 00 AM](https://github.com/user-attachments/assets/9c243275-3f27-41aa-a7b5-28f132f15170)
+
 
 ---
 MANUAL CALCULATIONS
